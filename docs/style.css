@@ -39,6 +39,8 @@ body {
 
 section {
   padding: 1rem;
+  max-width: 50rem;
+  margin: 0 auto;
 }
 
 h1 {
