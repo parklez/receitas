@@ -1,0 +1,40 @@
+@import "https://assets.ubuntu.com/v1/vanilla-framework-version-4.26.0.min.css";
+
+:root {
+  --background-color: rgba(0, 0, 0, 0.75);
+  --box-shadow-color: rgba(0, 0, 0, 0.5);
+  --text-color: #e0e0e0;
+  --heading-color: #efb9ff;
+}
+
+.box {
+  background-color: var(--background-color);
+  padding: 1rem;
+  margin-bottom: 15px;
+  border-radius: 12px;
+  box-shadow: 0 2px 5px var(--box-shadow-color);
+}
+
+button {
+  margin-bottom: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("./assets/nekopara.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: var(--text-color);
+}
+
+section {
+  padding: 2rem;
+}
+
+h1 {
+  color: var(--heading-color);
+  margin-bottom: 3rem;
+}

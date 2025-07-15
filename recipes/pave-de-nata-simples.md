@@ -11,5 +11,4 @@
 - 1x Creme de leite (200g)
 
 ## Modo de preparo
-https://www.receiteria.com.br/receita/pave-de-nata-simples/
-
+www.receiteria.com.br/receita/pave-de-nata-simples

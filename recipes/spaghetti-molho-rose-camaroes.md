@@ -1,11 +1,12 @@
 # Spaghetti ao molho rose com camarões
 
 ## Ingredientes
-- 1x Porção Spaghetti
-- 130g Extrato de tomate (sem tempero)
-- 200g Creme de leite
-- 150g Camarão congelado
+- 220g Spaghetti
+- 1x Extrato de tomate (sem tempero) (pote circular)
+- 2x Latas de creme de leite
+- 350g Camarão congelado (pequeno)
 - Sal
+- Pimenta
 
 ## Mogo de preparo
 - Cozinhe o spaghetti em água quente, adicione sal e aguarde até chegar no ponto de preferência.
