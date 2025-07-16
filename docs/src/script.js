@@ -16,7 +16,9 @@ async function listGitHubRepoFiles(repoOwner, repoName, dirPath) {
 }
 
 async function fetchGitHubRepoFile(repoOwner, repoName, filePath) {
-  const response = await fetch(`https://raw.githubusercontent.com/${repoOwner}/${repoName}/main/${filePath}`);
+  const response = await fetch(`https://raw.githubusercontent.com/${repoOwner}/${repoName}/main/${filePath}`, {
+    headers: { Accept: "application/vnd.github.v3+json" },
+  });
 
   if (!response.ok) {
     throw new Error(`Failed to fetch file: ${response.statusText}`);
